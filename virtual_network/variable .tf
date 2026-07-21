@@ -1,1 +1,1 @@
-variable "net" {}
+variable "vnet" {}
